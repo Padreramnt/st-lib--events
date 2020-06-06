@@ -12,9 +12,8 @@
 		"lib"
 	],
 	"keywords": [
-		"TypeScript",
-		"HTML",
-		"Event"
+		"st-lib",
+		"events"
 	],
 	"license": "MIT",
 	"main": "lib/index.js",
