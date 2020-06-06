@@ -15,6 +15,10 @@
 		"st-lib",
 		"events"
 	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Padreramnt/st-lib--events"
+	},
 	"license": "MIT",
 	"main": "lib/index.js",
 	"module": "lib/index.js",
