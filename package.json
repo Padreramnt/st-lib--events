@@ -1,12 +1,12 @@
 {
 	"author": "padreramnt",
 	"dependencies": {
-		"tslib": "^1.9.3"
+		"tslib": "^2.0.0"
 	},
 	"description": "Tool library for easy binding events.",
 	"devDependencies": {
 		"rimraf": "^3.0.1",
-		"typescript": "^3.5.1"
+		"typescript": "^3.9.6"
 	},
 	"files": [
 		"lib"
